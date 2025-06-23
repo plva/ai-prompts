@@ -10,6 +10,9 @@ Prompts for programming assistance, code review, debugging, and development task
 ### Code Quality
 - **[Code Review](./code-review.md)** - Review and improve existing code
 
+### Engineering Guidance
+- **[Senior Engineering Guidance](./senior-engineering-guidance.md)** - Provide deep, trade-off-aware software engineering guidance
+
 ## 🎯 Use Cases
 
 - **Code Generation**: Writing functions, classes, and modules
@@ -17,6 +20,7 @@ Prompts for programming assistance, code review, debugging, and development task
 - **Debugging**: Finding and fixing issues
 - **Documentation**: Creating technical documentation
 - **Testing**: Writing unit tests and test cases
+- **Architecture**: Making design decisions and trade-offs
 
 ## 📝 Tips for Coding Prompts
 
