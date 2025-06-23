@@ -12,7 +12,8 @@ prompts/
 │   ├── coding/              # Programming and development
 │   ├── analysis/            # Data analysis and research
 │   ├── creative/            # Creative projects and brainstorming
-│   └── productivity/        # Workflow and productivity
+│   ├── productivity/        # Workflow and productivity
+│   └── project-management/  # Project planning and handoff
 ├── templates/               # Reusable prompt templates
 └── examples/                # Example prompts with outputs
 ```
@@ -33,6 +34,9 @@ Prompts for brainstorming, ideation, and creative projects.
 
 ### Productivity
 Prompts for workflow optimization, planning, and task management.
+
+### Project Management
+Prompts for project planning, story creation, and project handoff scenarios.
 
 ## 📝 Usage
 

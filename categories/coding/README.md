@@ -2,49 +2,31 @@
 
 Prompts for programming assistance, code review, debugging, and development tasks.
 
-## 💻 Code Generation
+## 📋 Available Prompts
 
-### Function Documentation
-**Category**: Coding  
-**Use Case**: Generate comprehensive function documentation  
-**Tags**: documentation, function, code
+### Code Generation
+- **[Function Documentation](./function-documentation.md)** - Generate comprehensive function documentation
 
-#### Prompt
-Write comprehensive documentation for this function:
-```[language]
-[function code here]
-```
+### Code Quality
+- **[Code Review](./code-review.md)** - Review and improve existing code
 
-Include:
-- Function purpose and behavior
-- Parameter descriptions with types
-- Return value description
-- Usage examples
-- Edge cases and error handling
+## 🎯 Use Cases
 
-#### Expected Output
-Clear, professional documentation following language conventions.
+- **Code Generation**: Writing functions, classes, and modules
+- **Code Review**: Analyzing and improving existing code
+- **Debugging**: Finding and fixing issues
+- **Documentation**: Creating technical documentation
+- **Testing**: Writing unit tests and test cases
 
-#### Notes
-Replace [language] with your programming language and [function code here] with actual code.
+## 📝 Tips for Coding Prompts
 
-### Code Review
-**Category**: Coding  
-**Use Case**: Review and improve existing code  
-**Tags**: review, improvement, best-practices
+1. **Include Context**: Provide relevant code snippets and environment details
+2. **Specify Language**: Mention programming language and version
+3. **Define Requirements**: Clearly state what you need
+4. **Add Constraints**: Include performance, security, or style requirements
+5. **Request Examples**: Ask for usage examples when appropriate
 
-#### Prompt
-Review this code for:
-- Performance issues
-- Security vulnerabilities
-- Code style and readability
-- Best practices adherence
-- Potential bugs
+## 🔗 Related Categories
 
-Provide specific suggestions for improvement.
-
-#### Expected Output
-Detailed review with actionable recommendations.
-
-#### Notes
-Include the code you want reviewed in the prompt. 
+- **[Analysis](./../analysis/)** - Data analysis and research prompts
+- **[Project Management](./../project-management/)** - Project planning prompts 
