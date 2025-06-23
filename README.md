@@ -79,6 +79,10 @@ Each prompt should follow this structure:
 - [OpenAI Best Practices](https://platform.openai.com/docs/guides/prompt-engineering)
 - [Anthropic Claude Guide](https://docs.anthropic.com/claude/docs)
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
 
 *Keep your prompts organized, test them thoroughly, and share what works!* 
