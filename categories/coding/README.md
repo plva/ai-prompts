@@ -12,6 +12,7 @@ Prompts for programming assistance, code review, debugging, and development task
 
 ### Engineering Guidance
 - **[Senior Engineering Guidance](./senior-engineering-guidance.md)** - Provide deep, trade-off-aware software engineering guidance
+- **[Senior Interview Preparation](./senior-interview-preparation.md)** - Prepare for senior engineer interviews by demonstrating senior-level thinking
 
 ## 🎯 Use Cases
 
@@ -21,6 +22,7 @@ Prompts for programming assistance, code review, debugging, and development task
 - **Documentation**: Creating technical documentation
 - **Testing**: Writing unit tests and test cases
 - **Architecture**: Making design decisions and trade-offs
+- **Interview Preparation**: Demonstrating senior-level thinking and communication
 
 ## 📝 Tips for Coding Prompts
 

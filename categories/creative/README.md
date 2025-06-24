@@ -6,6 +6,7 @@ Prompts for brainstorming, ideation, and creative projects.
 
 ### Brainstorming
 - **[Brainstorming Session](./brainstorming-session.md)** - Generate creative ideas and solutions
+- **[Structured Brainstorming](./structured-brainstorming.md)** - Generate and organize creative ideas through structured brainstorming
 
 ### Creative Writing
 - **[Creative Writing](./creative-writing.md)** - Generate creative stories, scripts, or narratives
